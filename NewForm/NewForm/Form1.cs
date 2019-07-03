@@ -15,6 +15,8 @@ namespace NewForm
         public Form1()
         {
             InitializeComponent();
+
+            string str = string.Empty;
         }
     }
 }
